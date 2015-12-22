@@ -1,0 +1,28 @@
+name: badassebikes
+favicon: null
+layout_spectrum: 0.06606837245635688
+typography_spectrum: 0.2741143750026822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8101119960192591
+  lightness: 0.11357484990730882
+  saturation: 0.5118141188286245
+  rhythmicContrast: 0.3413356135133654
+purpose: []
